@@ -1,0 +1,9 @@
+/node_modules
+/.next
+/out
+/.env.local
+.vercel
+ai_service/.venv
+ai_service/__pycache__
+
+*.tsbuildinfo
